@@ -11,4 +11,4 @@ In this project it was developed
 4. Convolution of a Mask that creates Motion Bluer in the Image
 
 ## Results of the Project 
-![alt text](Image_Processing_Masks-Convolution/Images/1_GrayScaleAndRGBtoBluredImages.png)
+<img src="Images/1_GrayScaleAndRGBtoBluredImages.png" width="300">
