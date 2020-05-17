@@ -1,6 +1,6 @@
 # Image Processing Masks-Convolution
 
-Developing from Scratch Masks that change Images and apply them via Convolution to understand the Basics of Image Processing
+Developing from Scratch Masks that change Images and apply them via Convolution to understand the Basics of Image Processing - Originally developed 04/05/2018
 
 
 
